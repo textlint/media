@@ -1,6 +1,6 @@
-# textlint-media
+# textlint official logo
 
-logo and icon.
+![banner](banner/banner.png)
 
 Created by [Yasuaki Uechi (@uetchy)](https://github.com/uetchy)
 
