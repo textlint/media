@@ -1,6 +1,6 @@
 # textlint official logo
 
-![logo](logo/logo.png)
+![logo](logo/spaced/textlint-logo@0.5x.png)
 
 Created by [Yasuaki Uechi (@uetchy)](https://github.com/uetchy)
 
